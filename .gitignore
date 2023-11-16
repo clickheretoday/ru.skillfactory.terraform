@@ -1,0 +1,9 @@
+*.tfstate
+bucket/terraform.tfstate.backup
+*.log
+*.tfvars
+.terraformrc
+terraform.rc
+variables.tf
+.terraform
+bucket/.terraform
